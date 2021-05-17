@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OKFx6ShcOcoppBhLNZIV/IO5mGU2uQV5ZmFda65xq77CkIOto+3IESH2g0l5obp/Wnrai3B4s9M/N2dj0xTMhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HKOC\\Desktop\\DotNet Core Eğitim\\Twitter-Clone\\Twitter-Clone\\TwitterClone\\TwitterClone.CORE\\TwitterClone.CORE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HKOC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\HKOC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\HKOC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

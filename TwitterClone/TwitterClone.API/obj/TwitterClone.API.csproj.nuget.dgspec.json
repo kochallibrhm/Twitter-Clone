@@ -27,7 +27,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\HKOC\\Desktop\\DotNet Core Eğitim\\Twitter-Clone\\Twitter-Clone\\TwitterClone\\TwitterClone.MODEL\\TwitterClone.MODEL.csproj": {
+                "projectPath": "C:\\Users\\HKOC\\Desktop\\DotNet Core Eğitim\\Twitter-Clone\\Twitter-Clone\\TwitterClone\\TwitterClone.MODEL\\TwitterClone.MODEL.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -54,6 +58,20 @@
                 "NU1605"
               ]
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
@@ -73,6 +91,162 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HKOC\\Desktop\\DotNet Core Eğitim\\Twitter-Clone\\Twitter-Clone\\TwitterClone\\TwitterClone.CORE\\TwitterClone.CORE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HKOC\\Desktop\\DotNet Core Eğitim\\Twitter-Clone\\Twitter-Clone\\TwitterClone\\TwitterClone.CORE\\TwitterClone.CORE.csproj",
+        "projectName": "TwitterClone.CORE",
+        "projectPath": "C:\\Users\\HKOC\\Desktop\\DotNet Core Eğitim\\Twitter-Clone\\Twitter-Clone\\TwitterClone\\TwitterClone.CORE\\TwitterClone.CORE.csproj",
+        "packagesPath": "C:\\Users\\HKOC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HKOC\\Desktop\\DotNet Core Eğitim\\Twitter-Clone\\Twitter-Clone\\TwitterClone\\TwitterClone.CORE\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HKOC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HKOC\\Desktop\\DotNet Core Eğitim\\Twitter-Clone\\Twitter-Clone\\TwitterClone\\TwitterClone.MODEL\\TwitterClone.MODEL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HKOC\\Desktop\\DotNet Core Eğitim\\Twitter-Clone\\Twitter-Clone\\TwitterClone\\TwitterClone.MODEL\\TwitterClone.MODEL.csproj",
+        "projectName": "TwitterClone.MODEL",
+        "projectPath": "C:\\Users\\HKOC\\Desktop\\DotNet Core Eğitim\\Twitter-Clone\\Twitter-Clone\\TwitterClone\\TwitterClone.MODEL\\TwitterClone.MODEL.csproj",
+        "packagesPath": "C:\\Users\\HKOC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HKOC\\Desktop\\DotNet Core Eğitim\\Twitter-Clone\\Twitter-Clone\\TwitterClone\\TwitterClone.MODEL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HKOC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\HKOC\\Desktop\\DotNet Core Eğitim\\Twitter-Clone\\Twitter-Clone\\TwitterClone\\TwitterClone.CORE\\TwitterClone.CORE.csproj": {
+                "projectPath": "C:\\Users\\HKOC\\Desktop\\DotNet Core Eğitim\\Twitter-Clone\\Twitter-Clone\\TwitterClone\\TwitterClone.CORE\\TwitterClone.CORE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

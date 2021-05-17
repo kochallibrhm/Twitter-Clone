@@ -1,0 +1,9 @@
+C:\Users\HKOC\Desktop\DotNet Core Eğitim\Twitter-Clone\Twitter-Clone\TwitterClone\TwitterClone.CORE\bin\Debug\netcoreapp3.1\TwitterClone.CORE.deps.json
+C:\Users\HKOC\Desktop\DotNet Core Eğitim\Twitter-Clone\Twitter-Clone\TwitterClone\TwitterClone.CORE\bin\Debug\netcoreapp3.1\TwitterClone.CORE.dll
+C:\Users\HKOC\Desktop\DotNet Core Eğitim\Twitter-Clone\Twitter-Clone\TwitterClone\TwitterClone.CORE\bin\Debug\netcoreapp3.1\TwitterClone.CORE.pdb
+C:\Users\HKOC\Desktop\DotNet Core Eğitim\Twitter-Clone\Twitter-Clone\TwitterClone\TwitterClone.CORE\obj\Debug\netcoreapp3.1\TwitterClone.CORE.csprojAssemblyReference.cache
+C:\Users\HKOC\Desktop\DotNet Core Eğitim\Twitter-Clone\Twitter-Clone\TwitterClone\TwitterClone.CORE\obj\Debug\netcoreapp3.1\TwitterClone.CORE.AssemblyInfoInputs.cache
+C:\Users\HKOC\Desktop\DotNet Core Eğitim\Twitter-Clone\Twitter-Clone\TwitterClone\TwitterClone.CORE\obj\Debug\netcoreapp3.1\TwitterClone.CORE.AssemblyInfo.cs
+C:\Users\HKOC\Desktop\DotNet Core Eğitim\Twitter-Clone\Twitter-Clone\TwitterClone\TwitterClone.CORE\obj\Debug\netcoreapp3.1\TwitterClone.CORE.csproj.CoreCompileInputs.cache
+C:\Users\HKOC\Desktop\DotNet Core Eğitim\Twitter-Clone\Twitter-Clone\TwitterClone\TwitterClone.CORE\obj\Debug\netcoreapp3.1\TwitterClone.CORE.dll
+C:\Users\HKOC\Desktop\DotNet Core Eğitim\Twitter-Clone\Twitter-Clone\TwitterClone\TwitterClone.CORE\obj\Debug\netcoreapp3.1\TwitterClone.CORE.pdb

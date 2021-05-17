@@ -1,0 +1,15 @@
+C:\Users\HKOC\Desktop\DotNet Core Eğitim\Twitter-Clone\Twitter-Clone\TwitterClone\TwitterClone.MODEL\bin\Debug\netcoreapp3.1\TwitterClone.CORE.dll
+C:\Users\HKOC\Desktop\DotNet Core Eğitim\Twitter-Clone\Twitter-Clone\TwitterClone\TwitterClone.MODEL\obj\Debug\netcoreapp3.1\TwitterClone.MODEL.csprojAssemblyReference.cache
+C:\Users\HKOC\Desktop\DotNet Core Eğitim\Twitter-Clone\Twitter-Clone\TwitterClone\TwitterClone.MODEL\obj\Debug\netcoreapp3.1\TwitterClone.MODEL.AssemblyInfoInputs.cache
+C:\Users\HKOC\Desktop\DotNet Core Eğitim\Twitter-Clone\Twitter-Clone\TwitterClone\TwitterClone.MODEL\obj\Debug\netcoreapp3.1\TwitterClone.MODEL.AssemblyInfo.cs
+C:\Users\HKOC\Desktop\DotNet Core Eğitim\Twitter-Clone\Twitter-Clone\TwitterClone\TwitterClone.MODEL\bin\Debug\netcoreapp3.1\TwitterClone.MODEL.deps.json
+C:\Users\HKOC\Desktop\DotNet Core Eğitim\Twitter-Clone\Twitter-Clone\TwitterClone\TwitterClone.MODEL\bin\Debug\netcoreapp3.1\TwitterClone.MODEL.runtimeconfig.json
+C:\Users\HKOC\Desktop\DotNet Core Eğitim\Twitter-Clone\Twitter-Clone\TwitterClone\TwitterClone.MODEL\bin\Debug\netcoreapp3.1\TwitterClone.MODEL.runtimeconfig.dev.json
+C:\Users\HKOC\Desktop\DotNet Core Eğitim\Twitter-Clone\Twitter-Clone\TwitterClone\TwitterClone.MODEL\bin\Debug\netcoreapp3.1\TwitterClone.MODEL.dll
+C:\Users\HKOC\Desktop\DotNet Core Eğitim\Twitter-Clone\Twitter-Clone\TwitterClone\TwitterClone.MODEL\bin\Debug\netcoreapp3.1\TwitterClone.MODEL.pdb
+C:\Users\HKOC\Desktop\DotNet Core Eğitim\Twitter-Clone\Twitter-Clone\TwitterClone\TwitterClone.MODEL\bin\Debug\netcoreapp3.1\TwitterClone.CORE.pdb
+C:\Users\HKOC\Desktop\DotNet Core Eğitim\Twitter-Clone\Twitter-Clone\TwitterClone\TwitterClone.MODEL\obj\Debug\netcoreapp3.1\TwitterClone.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\HKOC\Desktop\DotNet Core Eğitim\Twitter-Clone\Twitter-Clone\TwitterClone\TwitterClone.MODEL\obj\Debug\netcoreapp3.1\TwitterClone.MODEL.csproj.CopyComplete
+C:\Users\HKOC\Desktop\DotNet Core Eğitim\Twitter-Clone\Twitter-Clone\TwitterClone\TwitterClone.MODEL\obj\Debug\netcoreapp3.1\TwitterClone.MODEL.dll
+C:\Users\HKOC\Desktop\DotNet Core Eğitim\Twitter-Clone\Twitter-Clone\TwitterClone\TwitterClone.MODEL\obj\Debug\netcoreapp3.1\TwitterClone.MODEL.pdb
+C:\Users\HKOC\Desktop\DotNet Core Eğitim\Twitter-Clone\Twitter-Clone\TwitterClone\TwitterClone.MODEL\obj\Debug\netcoreapp3.1\TwitterClone.MODEL.genruntimeconfig.cache
