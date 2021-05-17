@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterClone.API", "TwitterClone.API\TwitterClone.API.csproj", "{1E6BB6D4-1AEB-4CF4-B05F-76B883441056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E6BB6D4-1AEB-4CF4-B05F-76B883441056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E6BB6D4-1AEB-4CF4-B05F-76B883441056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E6BB6D4-1AEB-4CF4-B05F-76B883441056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E6BB6D4-1AEB-4CF4-B05F-76B883441056}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0405130-EAE9-46C3-A27B-7311A09AAD13}
+	EndGlobalSection
+EndGlobal
