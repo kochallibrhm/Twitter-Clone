@@ -39,6 +39,7 @@ namespace TwitterClone.MODEL.Entities
         }
 
         public virtual List<Twit> Twits { get; set; }
+        public virtual List<Comment> Comments { get; set; }
 
     }
 }

@@ -5,24 +5,19 @@ using TwitterClone.CORE.Entity.Core;
 
 namespace TwitterClone.MODEL.Entities
 {
-    public class Twit : CoreEntity
+    public class Comment : CoreEntity
     {
-        // Setting created date with constructor
-        public Twit()
+        public Comment()
         {
             CreatedDate = DateTime.Now;
             LikeCount = 0;
         }
-
         public string Text { get; set; }
         public int LikeCount { get; set; }
+        public Guid UserId { get; set; }
 
-        public Guid UserID { get; set; }
         public virtual User User { get; set; }
-        public virtual List<Tag> Tags { get; set; }
-        public virtual List<Comment> Comments { get; set; }
-
-
+         
 
     }
 }

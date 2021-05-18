@@ -10,11 +10,16 @@ namespace TwitterClone.MODEL.Data
     {
         public AppDbContext(DbContextOptions options) : base(options)
         {
-            // DefaultData();
+            DefaultData();
         }
 
         public DbSet<User> Users { get; set; }
         public DbSet<Twit> Twits { get; set; }
         public DbSet<Tag> Tags { get; set; }
+
+        public void DefaultData()
+        {
+           
+        }
     }
 }

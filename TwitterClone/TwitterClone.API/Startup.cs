@@ -13,6 +13,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using TwitterClone.MODEL.Data;
+using TwitterClone.MODEL.Repositories;
 
 namespace TwitterClone.API
 {
@@ -37,6 +38,14 @@ namespace TwitterClone.API
 
             // Db Context
             services.AddDbContext<AppDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("Api")));
+
+            // Dependency Injections
+            services.AddScoped(typeof(IRepository<>), typeof(GenericRepository<>));
+            services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<ITwitRepository, TwitRepository>();
+            services.AddScoped<ITagRepository, TagRepository>();
+            services.AddScoped<ICommentRepository, CommentRepository>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
