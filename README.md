@@ -6,3 +6,7 @@
 - Entites and DB created
 
 ---
+### 2nd Day Commits (17.05.2021)
+- Comment table added
+- Repositories added
+- Dependency Injections done
