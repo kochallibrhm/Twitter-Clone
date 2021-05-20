@@ -13,6 +13,6 @@
 
 ---
 ### 3nd Day Commits (19.05.2021)
-- Dtos and Controller Added
+- Dtos and Controllers Added
 - Some columns added to some tables
 - Repositories customized
