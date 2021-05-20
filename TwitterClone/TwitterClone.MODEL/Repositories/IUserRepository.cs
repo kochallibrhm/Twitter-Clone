@@ -7,5 +7,7 @@ namespace TwitterClone.MODEL.Repositories
 {
     public interface IUserRepository : IRepository<User>
     {
+        public User GetByUserName(string username);
+        public User GetByEmail(string email);
     }
 }

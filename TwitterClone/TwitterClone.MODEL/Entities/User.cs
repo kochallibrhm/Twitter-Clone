@@ -17,8 +17,10 @@ namespace TwitterClone.MODEL.Entities
         public string Name { get; set; }
         public string LastName { get; set; }
         public string Username { get; set; }
+        public string Email { get; set; }
         public string Password { get; set; }
         public DateTime Birthday { get; set; }
+        public string ImageUrl { get; set; }
         public bool IsAdmin { get; set; }
 
         // For not restore in db

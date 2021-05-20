@@ -10,7 +10,7 @@ namespace TwitterClone.MODEL.Data
     {
         public AppDbContext(DbContextOptions options) : base(options)
         {
-            DefaultData();
+            //DefaultData();
         }
 
         public DbSet<User> Users { get; set; }
@@ -19,7 +19,28 @@ namespace TwitterClone.MODEL.Data
 
         public void DefaultData()
         {
-           
+            var user = new User
+            {
+                Name = "Test",
+                LastName = "Admin1",
+                Username = "TA1",
+                Password = "123",
+                Birthday = DateTime.Now.AddYears(-25),
+                ImageUrl = "No Image",
+                IsAdmin = true,
+            };
+            Users.Add(user);
+            user = new User
+            {
+                Name = "Test",
+                LastName = "Admin2",
+                Username = "TA2",
+                Password = "123",
+                Birthday = DateTime.Now.AddYears(-25),
+                ImageUrl = "No Image",
+                IsAdmin = true,
+            };
+            Users.Add(user);
         }
     }
 }
